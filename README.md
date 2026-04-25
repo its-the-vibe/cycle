@@ -1,5 +1,8 @@
 # cycle
 
+[![CI](https://github.com/its-the-vibe/cycle/actions/workflows/ci.yaml/badge.svg)](https://github.com/its-the-vibe/cycle/actions/workflows/ci.yaml)
+
+
 Simple command-line tool to move the first line of a file to the end.
 
 ## Installation
