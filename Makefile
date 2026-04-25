@@ -17,3 +17,7 @@ lint:
 
 clean:
 	rm -f $(BIN)
+
+.PHONY: install
+install:
+	$(GO) install $(GOFLAGS) ./...
